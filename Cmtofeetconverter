@@ -1,0 +1,14 @@
+import java.util.Scanner;
+class Cmtofeetconverter{
+   public static void main(String[] args) {
+   Scanner input = new Scanner(System.in);
+   System.out.println("Enter your height in cm:");
+   int heightcm=input.nextInt();
+   double inches=(double)heightcm/2.54;
+   int feet=(int)inches/12;
+   double remaininginches=(double)inches%(double)12;
+   System.out.println("Your Height in cm is "+heightcm+" while in feet is "+feet+" and inches is "+remaininginches
+);
+   
+   }
+}
