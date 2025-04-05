@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class Feediscount{
    public static void main(String[] args) {
    int fee=125000;
