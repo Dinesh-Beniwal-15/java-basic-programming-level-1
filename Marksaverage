@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class Marksaverage{
    public static void main(String[] args) {
    int mathsmarks=94;
