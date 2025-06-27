@@ -6,4 +6,4 @@ class Volumeofearth{
    double volumeofearthmiles=volumeofearthkm/1.6;
    System.out.println("The volume of earth in cubic kilometer is "+volumeofearthkm+" and cubic miles is "+volumeofearthmiles); 
    }
-}
+} 
