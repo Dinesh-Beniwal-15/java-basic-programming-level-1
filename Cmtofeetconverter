@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Cmtofeetconverter{
    public static void main(String[] args) {
-   Scanner input = new Scanner(System.in); 
+   Scanner input = new Scanner(System.in);  
    System.out.println("Enter your height in cm:");
    int heightcm=input.nextInt();
    double inches=(double)heightcm/2.54;
