@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Feediscount{
+class Feediscount{ 
    public static void main(String[] args) {
    int fee=125000;
    int discountpercent=10;
