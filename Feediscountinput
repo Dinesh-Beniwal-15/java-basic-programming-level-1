@@ -3,7 +3,7 @@ class Feediscountinput{
    public static void main(String[] args) {
    Scanner input = new Scanner(System.in);
    System.out.println("Enter university fee:");
-   double fee=input.nextDouble(); 
+   double fee=input.nextDouble();  
    System.out.println("Enter discount percent:"); 
    double discountpercent=input.nextDouble();
    double discount=(fee*discountpercent)/100;
