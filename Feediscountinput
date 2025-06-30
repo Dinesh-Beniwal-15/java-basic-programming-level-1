@@ -5,7 +5,7 @@ class Feediscountinput{
    System.out.println("Enter university fee:"); 
    double fee=input.nextDouble();   
    System.out.println("Enter discount percent:"); 
-   double discountpercent=input.nextDouble();
+   double discountpercent=input.nextDouble(); 
    double discount=(fee*discountpercent)/100;
    double finalfee=fee-discount;
    System.out.println("The discount amount is INR "+discount+" and final discounted fee is INR "+finalfee);
