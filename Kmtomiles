@@ -3,7 +3,7 @@ class Kmtomiles{
    public static void main(String[] args) {
    double km=10.8;
    double miles=1.6; 
-   double newmiles=(km/miles);
+   double newmiles=(km/miles); 
    System.out.println("The distance "+km+"km in miles is "+newmiles);
    } 
 }
