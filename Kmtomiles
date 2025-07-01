@@ -7,3 +7,4 @@ class Kmtomiles{
    System.out.println("The distance "+km+"km in miles is "+newmiles);
    } 
 }
+ 
