@@ -5,5 +5,5 @@ class Kmtomiles{
    double miles=1.6;
    double newmiles=(km/miles);
    System.out.println("The distance "+km+"km in miles is "+newmiles);
-   }
+   } 
 }
