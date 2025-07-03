@@ -5,6 +5,6 @@ class Marksaverage{
    int physicsmarks=95; 
    int chemistrymarks=96;
    int marksaverage=(mathsmarks+physicsmarks+chemistrymarks)/3;  
-   System.out.println("Sam's average mark in PCM is "+marksaverage);
+   System.out.println("Sam's average mark in PCM is "+marksaverage); 
    }
 }
