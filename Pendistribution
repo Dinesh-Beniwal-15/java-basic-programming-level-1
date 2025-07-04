@@ -4,7 +4,7 @@ class Pendistribution{
    int pens=14;
    int students=3;   
    int remainder=pens%students;  
-   int penperperson=pens/students;
+   int penperperson=pens/students; 
    System.out.println("The pen per student is "+penperperson+" and the remaining pen not distibuted is "+remainder); 
    }
 }
