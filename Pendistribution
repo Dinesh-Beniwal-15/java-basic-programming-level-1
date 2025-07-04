@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Pendistribution{
-   public static void main(String[] args) { 
+   public static void main(String[] args) {  
    int pens=14;
    int students=3;  
    int remainder=pens%students; 
