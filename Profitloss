@@ -3,7 +3,7 @@ class Profitloss{
    public static void main(String[] args) { 
    int costprice=129;
    int sellingprice=191; 
-   int profit=sellingprice-costprice;
+   int profit=sellingprice-costprice; 
    double profitpercentage=((double)profit/(double)costprice)*100; 
    System.out.println("The Costprice is INR "+costprice+" and Selling Price is INR "+sellingprice+
    "\nThe profit is INR "+profit+" and the Profit percentage is "+profitpercentage);
