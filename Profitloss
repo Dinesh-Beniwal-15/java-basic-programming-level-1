@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Profitloss{
-   public static void main(String[] args) {
+   public static void main(String[] args) { 
    int costprice=129;
    int sellingprice=191;
    int profit=sellingprice-costprice;
